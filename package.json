@@ -4,15 +4,17 @@
   "description": "Proyecto de prueba con un chat de nodejs y socket.io ",
   "main": "index.js",
   "scripts": {
-    "start" : "node server/index.js",
+    "start": "node server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Adrian Perez Magaña",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.2",
-    "socket.io": "^2.0.4"
-  }, "devDependencies": {
+    "socket.io": "^2.0.4",
+    "ws": "^7.2.3"
+  },
+  "devDependencies": {
     "nodemon": "^1.12.1"
   }
 }
