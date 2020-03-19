@@ -3,7 +3,7 @@ var express = require('express');
 //Se crea la app llamando al metodo xpress
 var app = express();
 //Se llama al http pasandole el xpress para que lo ejecute
-var server = require('https').Server(app);
+var server = require('http').Server(app);
 //Llamamos a socket.io pasandole el server para que escuche
 var io = require('socket.io')(server);
 //Usamos el midelware para carjar los html de la pagina de cliente que seras estativos
