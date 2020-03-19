@@ -1,5 +1,5 @@
 //Para un servidor local se pone la io
-var socket = io.connect('http://192.168.1.2:6677',{'forceNew':true});
+var socket = io.connect('https://rol.herokuapp.com:5000',{'forceNew':true});
 //Recivimos messages del cliente
 socket.on('messages',function(data){
 	console.log(data);
