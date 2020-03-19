@@ -1,0 +1,1067 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"socket"
+			],
+			[
+				"getEle",
+				"getElementById"
+			],
+			[
+				"mes",
+				"messages"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"so",
+				"sombra-slyder"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ini",
+				"inicioX"
+			],
+			[
+				"alto",
+				"alto"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tex",
+				"textoComparar"
+			],
+			[
+				"texto",
+				"textoAux"
+			],
+			[
+				"te",
+				"textoComparar"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"col-",
+				"col-xs-12"
+			],
+			[
+				"flex",
+				"flex-grow"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"inline",
+				"inline-flex"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"Riesg",
+				"Riesgo_PCC"
+			],
+			[
+				"gal",
+				"galeriabase"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"fle",
+				"inline-flex"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"resu",
+				"resultado"
+			],
+			[
+				"res",
+				"resultadoInt"
+			],
+			[
+				"si",
+				"simbolo"
+			],
+			[
+				"key",
+				"keyup"
+			],
+			[
+				"oper",
+				"operacion"
+			],
+			[
+				"ope",
+				"operacion"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"vac",
+				"vaciarAlmacenado"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"val",
+				"valorVuelta"
+			],
+			[
+				"js",
+				"jscrollpane"
+			],
+			[
+				"dest",
+				"destroy"
+			],
+			[
+				"_c",
+				"_create"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"paddo",
+				"padding-top"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"padin",
+				"padding-left"
+			],
+			[
+				"pading",
+				"padding-left"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"desc",
+				"desComercial"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"comer",
+				"comercial"
+			],
+			[
+				"tmp2",
+				"tmp2-1"
+			],
+			[
+				"td",
+				"tdTmp"
+			],
+			[
+				"id",
+				"id_contacto"
+			],
+			[
+				"ca",
+				"calle"
+			],
+			[
+				"id_d",
+				"id_direcion_central"
+			],
+			[
+				"idcl",
+				"idCliente"
+			],
+			[
+				"data-",
+				"data-oblig"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"inp",
+				"inputs"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"alta",
+				"altaCliente"
+			],
+			[
+				"mensa",
+				"mensajePagina"
+			],
+			[
+				"com",
+				"comercial"
+			],
+			[
+				"contra",
+				"contrasena"
+			],
+			[
+				"per",
+				"persona2"
+			],
+			[
+				"cre",
+				"crearMensaje"
+			],
+			[
+				"pie",
+				"piepagina"
+			],
+			[
+				"idg",
+				"id_general"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"separarNombre"
+			],
+			[
+				"ar",
+				"archivoNombre"
+			],
+			[
+				"inputs",
+				"inputs"
+			],
+			[
+				"sq",
+				"sqlUpdate"
+			],
+			[
+				"idc",
+				"idComer"
+			],
+			[
+				"fecha",
+				"fechaNacimiento"
+			],
+			[
+				"fec",
+				"fechaNacimiento"
+			],
+			[
+				"cod",
+				"codError"
+			],
+			[
+				"derc",
+				"descError"
+			],
+			[
+				"me",
+				"msgError"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"va",
+				"valorrecibido"
+			],
+			[
+				"valor",
+				"valor2"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"dat",
+				"dat-oblig"
+			],
+			[
+				"lim",
+				"limpiarTablaMovil"
+			],
+			[
+				"label",
+				"labelTmp"
+			],
+			[
+				"tr",
+				"trTmp2"
+			],
+			[
+				"cons",
+				"consultarComercial"
+			],
+			[
+				"select",
+				"select-municipio"
+			],
+			[
+				"img",
+				"background-image"
+			],
+			[
+				"b",
+				"border-color"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"conta",
+				"containerCabeza"
+			],
+			[
+				"t",
+				"translateX()"
+			],
+			[
+				"ta",
+				"table-row"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"eq",
+				"equals"
+			],
+			[
+				"gener",
+				"generadorAleatorio"
+			],
+			[
+				"con",
+				"conexion"
+			],
+			[
+				"nom",
+				"nombre_agenda"
+			],
+			[
+				"tu",
+				"tuicon"
+			],
+			[
+				"idC",
+				"id_cor"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 446,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/index.js",
+			"settings":
+			{
+				"buffer_size": 1550,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/index.html",
+			"settings":
+			{
+				"buffer_size": 608,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<!DOCTYPE HTML>"
+			}
+		},
+		{
+			"file": "client/main.js",
+			"settings":
+			{
+				"buffer_size": 848,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/www/proNodeJs",
+		"/C/www/proNodeJs/client",
+		"/C/www/proNodeJs/server"
+	],
+	"file_history":
+	[
+		"/C/www/proNodeJs/server/index.js",
+		"/C/www/proNodeJs/package.json",
+		"/C/xampp/htdocs/Pay/themes/default-bootstrap/css/global.css",
+		"/C/xampp/htdocs/Inicio/css/main.css",
+		"/C/Users/adria/Dropbox/municipios-españa/tabla_municip.sql",
+		"/C/Users/adria/Desktop/sonidos/asianthings.sql",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/modules/blockviewed/blockviewed.tpl",
+		"/C/Users/adria/Dropbox/municipios-españa/tabla_provinc.sql",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/product.tpl",
+		"/C/xampp/htdocs/Magic/index.html",
+		"/C/xampp/htdocs/Magic/script/main.js",
+		"/C/xampp/htdocs/asianThings2/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css",
+		"/C/xampp/htdocs/Magic/style/main.css",
+		"/C/Users/adria/AndroidStudioProjects/prueba1/app/src/main/res/css/main.css",
+		"/C/xampp/htdocs/asianThings2/themes/default-bootstrap/css/global.css",
+		"/C/xampp/htdocs/comercon/Opcion2/css/main.css",
+		"/C/xampp/htdocs/comercon/Opcion2/index.html",
+		"/C/Users/adria/Google Drive/Programas Creados/conexion.php",
+		"/C/Users/adria/Google Drive/Programas Creados/conf.php",
+		"/C/Users/adria/Desktop/conexion.php",
+		"/C/Users/adria/Desktop/ips.txt",
+		"/C/Users/adria/Desktop/municipiosFIn.sql",
+		"/C/Users/adria/Desktop/municipiosmala.sql",
+		"/C/Users/adria/Desktop/StoresController.php",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/modules/blockspecials/blockspecials.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/modules/blocknewproducts/blocknewproducts.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/modules/blockcurrencies/blockcurrencies.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/modules/blockbestsellers/blockbestsellers.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/modules/blocksupplier/blocksupplier.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/modules/blockstore/blockstore.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/global.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/modules/mailalerts/views/templates/hook/product.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/modules/loyalty/views/templates/hook/product.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/modules/productscategory/productscategory.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/product-sort.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/products-comparison.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/product-list.tpl",
+		"/C/xampp/htdocs/asianthings/admin849x0ccb4/filemanager/execute.php",
+		"/C/xampp/htdocs/asianthings/admin849x0ccb4/tabs/index.php",
+		"/C/xampp/htdocs/asianthings/tools/parser_sql/PHPSQLParser.php",
+		"/C/xampp/htdocs/asianthings/tools/parser_sql/PHPSQLCreator.php",
+		"/C/xampp/htdocs/asianthings/ScriptsLimpieza/index.php",
+		"/C/xampp/htdocs/asianthings/modules/gamification/sql_install.php",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/cms.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/modules/cheque/views/templates/hook/infos.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/store_infos.tpl",
+		"/C/xampp/htdocs/asianthings/modules/blockcmsinfo/classes/InfoBlock.php",
+		"/C/xampp/htdocs/asianthings/modules/blockcmsinfo/blockcmsinfo.tpl",
+		"/C/xampp/htdocs/asianthings/modules/blockcmsinfo/config.xml",
+		"/C/xampp/htdocs/asianthings/modules/blockcms/blockcms.tpl",
+		"/C/xampp/htdocs/asianthings/modules/blockcms/blockcms.php",
+		"/C/xampp/htdocs/asianthings/modules/blockcmsinfo/blockcmsinfo.php",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/cache/index.php",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/index.php",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/modules/blockcms/blockcms.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/address.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/sitemap.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/contact-form.tpl",
+		"/C/xampp/htdocs/asianthings/admin849x0ccb4/themes/default/template/controllers/cms_content/content.tpl",
+		"/C/xampp/htdocs/asianthings/themes/default-bootstrap/css/cms.css",
+		"/C/Users/adria/Desktop/tiendatelas.sql",
+		"/C/Users/adria/Desktop/.htaccess",
+		"/C/xampp/htdocs/Inicio/index.php",
+		"/C/xampp/htdocs/maqueta/comercon/maqueta1.html",
+		"/C/xampp/htdocs/Firmas/firmaJavier.html",
+		"/C/xampp/htdocs/Firmas/firmaAlfredo.html",
+		"/C/xampp/htdocs/Inicio/js/main.js",
+		"/C/Users/adria/Desktop/limpiador.html",
+		"/C/Aplicaiones Movies/practica1/app/plugins/cordova-plugin-splashscreen/tests/ios/CDVSplashScreenTest/CDVSplashScreenLibTests/Info.plist",
+		"/C/Aplicaiones Movies/juego/juego/www/css/index.css",
+		"/C/Users/adria/Downloads/phaser-examples-master/examples/games/tanks.js",
+		"/C/Aplicaiones Movies/juego/juego/www/index.html",
+		"/C/Aplicaiones Movies/juego/juego/www/js/juego.js",
+		"/C/xampp/htdocs/index.php",
+		"/C/Aplicaiones Movies/practica1/app/www/css/index.css",
+		"/C/Aplicaiones Movies/practica1/app/www/js/juego.js",
+		"/C/Aplicaiones Movies/practica1/app/www/index.html",
+		"/C/Aplicaiones Movies/practica1/app/platforms/browser/platform_www/cordova_plugins.js",
+		"/C/Aplicaiones Movies/practica1/app/www/js/index.js",
+		"/C/Aplicaiones Movies/practica1/app/config.xml",
+		"/C/Aplicaiones Movies/practica1/app/platforms/browser/platform_www/cordova.js",
+		"/C/Aplicaiones Movies/practica1/app/plugins/browser.json",
+		"/C/Aplicaiones Movies/practica1/app/plugins/fetch.json",
+		"/C/Aplicaiones Movies/practica1/app/plugins/cordova-plugin-camera/tests/ios/CDVCameraTest/CDVCameraLibTests/Info.plist",
+		"/C/Aplicaiones Movies/practica1/app/.bithoundrc",
+		"/C/Aplicaiones Movies/practica1/app/CONTRIBUTING.md",
+		"/C/Aplicaiones Movies/practica1/app/README.md",
+		"/C/Aplicaiones Movies/practica1/app/www/js/orientacion.js",
+		"/C/Aplicaiones Movies/practica1/app/platforms/browser/manifest.webapp",
+		"/C/Users/adria/Desktop/fecha,html",
+		"/C/Users/adria/OneDrive/xml/xmlDataBueno.jsp",
+		"/C/Users/adria/OneDrive/xml/xmlData.jsp",
+		"/C/Users/adria/Desktop/Nueva carpeta (7)/Nueva carpeta (2)/GlobalesTblParam/xml/tblpar/TablasParametros/ABONO_DEVOLUCIOM_LIQ_MULTI.def",
+		"/C/Users/adria/Desktop/Nueva carpeta (7)/Nueva carpeta (2)/GlobalesTblParam/xml/tblpar/TablasParametros/ABONO_DEVOLUCIOM_LIQ_MULTI.xml",
+		"/C/Users/adria/Desktop/Nueva carpeta (7)/Nueva carpeta (2)/GlobalesTblParam/vega/AppTables/TablasParametros/ABONO_DISPOSICION_esES.xmlapptblxml",
+		"/C/Users/adria/Desktop/Nueva carpeta (7)/Nueva carpeta (2)/GlobalesTblParam/xml/tblpar/default/A_HACIENDA.def",
+		"/C/Users/adria/Desktop/Nueva carpeta (7)/Nueva carpeta (2)/GlobalesTblParam/vega/AppTables/TablasParametros/ABONO_DEVOLUCIOM_LIQ_MULTI.xmlapptblxml",
+		"/C/Users/adria/Desktop/Nueva carpeta (7)/Nueva carpeta (2)/RigelJars_Configuration/Totta_Intranet/services/DBConnector.xml",
+		"/C/Users/adria/Desktop/Nueva carpeta (7)/Nueva carpeta (2)/GlobalesUsabilidad/mira/Globales/Componentes/Globales/Bhtcs/Forms/BUSCADOR_1_criterio_forms.bhtc",
+		"/C/Users/adria/Desktop/Nueva carpeta (7)/Nueva carpeta (2)/GlobalesUsabilidad/mira/Globales/Componentes/Globales/Bhtcs/Vistas/Tablas/TableView.bhtc",
+		"/C/Users/adria/Desktop/Nueva carpeta (7)/Nueva carpeta (2)/GlobalesUsabilidad/mira/Globales/Componentes/Globales/Bhtcs/Vistas/Tablas/Plugins/TablePluginTree.bhtc",
+		"/C/Users/adria/Desktop/Nueva carpeta (7)/Nueva carpeta (2)/GlobalesArquitectura/vega/ActionTypes/Comunes/Accion_CifradoCGI.xmlgat",
+		"/C/Users/adria/Desktop/Nueva carpeta (7)/Nueva carpeta (2)/GlobalesArquitectura/mira/Globales/Componentes/Globales/Bhtcs/Cg/Contenedores/MiraPortalContainer.bhtc",
+		"/C/Users/adria/Desktop/Nueva carpeta (7)/Nueva carpeta (2)/GlobalesArquitectura/mira/Globales/Componentes/Globales/Bhtcs/Util/package.properties",
+		"/C/Users/adria/Documents/category.css",
+		"/C/Users/adria/Documents/.htaccess",
+		"/C/Users/adria/Documents/.htpasswd",
+		"/C/xampp/htdocs/Comecon/comercial.php",
+		"/C/xampp/htdocs/comerciales/comercial.php",
+		"/C/xampp/htdocs/comerciales/variables.php",
+		"/C/xampp/htdocs/comerciales/Insertar/consultar_comercial.php",
+		"/C/xampp/htdocs/comerciales/Insertar/insertar_comercial.php",
+		"/C/xampp/htdocs/comerciales/funciones.php",
+		"/C/xampp/htdocs/comerciales/WS/WebService.php",
+		"/C/xampp/htdocs/comerciales/estructura/head.php",
+		"/C/xampp/htdocs/comerciales/css/main.css",
+		"/C/xampp/htdocs/Comecon/estructura/derecha.php",
+		"/C/xampp/htdocs/comerciales/modulos/filtroActivo.php",
+		"/C/xampp/htdocs/comerciales/estructura/derecha.php",
+		"/C/xampp/htdocs/comerciales/js/main.js",
+		"/C/xampp/htdocs/comerciales/cliente.php",
+		"/C/xampp/htdocs/comerciales/usuario.php",
+		"/C/xampp/htdocs/comerciales/modulos/controlPag.php",
+		"/C/xampp/htdocs/Pay/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css",
+		"/C/xampp/htdocs/Pay/themes/default-bootstrap/css/modules/blocklayered/blocklayered.css",
+		"/C/xampp/htdocs/Pay/themes/default-bootstrap/css/category.css",
+		"/C/xampp/htdocs/Comecon/cliente.php",
+		"/C/xampp/htdocs/Pay/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<open files>,<current file>",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"addr",
+			"add",
+			"6",
+			"rgba(0,0,0,0.86);",
+			"5f7d50",
+			"#5f7d50",
+			" ",
+			"4",
+			"12",
+			"invisible",
+			"btnSub",
+			"6",
+			".modc",
+			"black",
+			"h5",
+			"products-block",
+			"h5",
+			"page-product-box",
+			"top-hr",
+			"center_colum",
+			"center_column",
+			"españa",
+			"madr",
+			"espa",
+			"madrid",
+			"Db",
+			"autoExecute",
+			"select",
+			"mysql_query",
+			"autoExecute",
+			"maps",
+			"ap",
+			"googleapis",
+			"ap",
+			"key",
+			"smarty.get.id_cms",
+			"smarty.get",
+			"smarty",
+			"class",
+			"row",
+			"ps_cms_category_shop",
+			"localhost",
+			"create",
+			"192.168.1.11",
+			"background-image",
+			"background: ima",
+			"background:",
+			"background",
+			"body",
+			"black",
+			"marcador",
+			"js",
+			"http://comerciales.comanbel.com/Firmas/Img/",
+			"extenoTuvain",
+			"http://comerciales.comanbel.com",
+			"idprovincia",
+			"provincia",
+			"madrid",
+			"madr",
+			"madd",
+			"mad",
+			"TO poblacion",
+			"poblacion",
+			"latin1_spanish_ci",
+			"#home-page-tabs",
+			"hoyo",
+			"appinicioY",
+			"bola",
+			"muro",
+			"tanke",
+			" '",
+			"new Phaser.Game",
+			"console.log",
+			"orientation",
+			"sql",
+			".content_scene_cat span.category-name",
+			"LIMPIARTA",
+			"DIBUJARTABLA",
+			"IMG",
+			"DIBUJARTA",
+			"img",
+			"cabeza",
+			"tamanoImagen",
+			"modI",
+			"modi",
+			"mod",
+			"25px",
+			"10",
+			"semanal",
+			"rgba(75,192,192,0.4)",
+			"rgba",
+			"semanal",
+			"rgba(75,192,192,0.4)",
+			"objeto",
+			".",
+			"})",
+			")",
+			":",
+			"push({",
+			"}",
+			"datosPintar[\"semanal\"][\"datasets\"]",
+			".push([",
+			"]=",
+			".push([",
+			"[0]",
+			"[]",
+			"datasets",
+			"label",
+			"semanas",
+			"datosPintar[\"semanas\"]",
+			"2000",
+			"xdebug",
+			"f7f7f7",
+			"ededed",
+			"009ad0",
+			"6E4717",
+			"333",
+			"515151",
+			"body",
+			"header",
+			"filaReg",
+			"pagination",
+			"datos_PropAsoc",
+			"datos_PropAsocPintar",
+			"datos_PropAsoc",
+			"next",
+			"mensaje",
+			"propAsoc"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"localhost",
+			"TO municipios",
+			"_POST"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								439,
+								439
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1179,
+								1179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								509,
+								516
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!DOCTYPE HTML>",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								643,
+								643
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pruebaNodeChat.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

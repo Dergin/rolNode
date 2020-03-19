@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Chat Node</title>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+	<script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
+	<script type="text/javascript" src= "js/main.js"></script>
+ 	</head>
+<body>
+	<div class="wrapper">
+		<div class="chatCabecera">
+			<div class="titulo"><h1>ChatNode JS</h1></div>
+			<div class="usuario"><img src="img/usuario.png" title="Nombre de usuario" class="icono" /><input type="text" class="inputTrasparente" id="nombreUsuario" value="Anonimo" placeholder="Nombre de usuario" /></div>
+		</div>
+
+		<div class="chatCuerpo">
+			
+		</div>
+		<div class="chatFooter">
+			<div class="nuevoMensaje">
+				<textarea class="textNuevoMensaje" id="textNuevoMensaje"></textarea>
+				<div class="btnEnviar">
+					Enviar
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

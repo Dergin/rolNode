@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html lang="es">
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<title>Chat Core node.JS</title>
+		<link rel="stylesheet" type="text/css" href="css/main.css">
+		<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+		<script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
+		<script type="text/javascript" src= "js/main.js"></script>
+
+	</head>
+	<body>
+		<div class="titulo">
+			<h1>Chat de node.</h1>
+		</div>
+		<div class="cuerpo">
+			<div id="messages">
+				
+			</div>
+		</div>
+		<div class="footer">
+			<form onsubmit="return addMessage(this)">
+				<input type="text" name="nickName" id="nickName" placeholder ="nickName">
+				<textarea placeholder="mensaje" id="mensaje"></textarea>
+				<input type="submit" name="Enciar">
+			</form>
+		</div>
+	</body>
+</html>
