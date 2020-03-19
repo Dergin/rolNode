@@ -50,6 +50,6 @@ io.on('connection',function(socket){
 })
 // se inicia el servidor en el puerto que quieras ( ete ejemplo el el 6677 pero suele ser el 8080)
 // Se le añade una funcion de callback para ver que en servidor esta encendido
-server.listen(5000,function(){
+server.listen(process.env.PORT || 5000,function(){
 	console.log("Servidor esta funcionando en http:192.168.1.2:6677")
 });
