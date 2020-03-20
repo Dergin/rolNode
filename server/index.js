@@ -48,6 +48,17 @@ io.on('connection',function(socket){
 		// emite mensaje a todo el mundo conetado
 		//io.sockets.emit('messages',messages);
 	});
+	socket.on('throw-iniciative',function (data){
+		var thow = d20()
+		messages.push({id:1,
+			text: thow,
+			nickname: 'Servidor'
+			});
+		// emite mensaje a todo el mundo conetado
+		io.sockets.emit('messages',messages);
+		// emite mensaje a todo el mundo conetado
+		//io.sockets.emit('messages',messages);
+	});
 
 })
 // se inicia el servidor en el puerto que quieras ( ete ejemplo el el 6677 pero suele ser el 8080)
@@ -55,3 +66,11 @@ io.on('connection',function(socket){
 server.listen(PORT,function(){
 	console.log("Servidor esta funcionando en "+PORT)
 });
+
+function d20(){
+	return throwDice(20);
+}
+
+function throwDice(dice){
+	return  Math.round(Math.random() * (dice - 1) + 1);
+}

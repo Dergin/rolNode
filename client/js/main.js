@@ -1,5 +1,5 @@
 //Para un servidor local se pone la io
-var socket = io();
+var socket = io.connect('http://rol.herokuapp.com',{'forceNew':true});
 //Recivimos messages del cliente
 socket.on('messages',function(data){
 	console.log(data);
@@ -38,9 +38,21 @@ function addMessage(){
 	socket.emit('add-message',message);
 }
 
+function throwIniciative(){
+	var message = {
+		nickname: $("#nombreUsuario").val(),
+		text: $(".textNuevoMensaje").val(),
+		ip: "cliente"
+	};
+	socket.emit('throw-iniciative',message);
+}
+
 //funciones de windows
 $("document").ready(function(){
 	$(".btnEnviar").click(function(){
 		addMessage();
+	})
+	$(".btnIniciativa").click(function(){
+		throwIniciative();
 	})
 })
