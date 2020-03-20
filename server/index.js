@@ -48,7 +48,7 @@ io.on('connection',function(socket){
 		// emite mensaje a todo el mundo conetado
 		//io.sockets.emit('messages',messages);
 	});
-/*	socket.on('throw-iniciative',function (data){
+	socket.on('throw-iniciative',function (data){
 		var thow = d20()
 		messages.push({id:1,
 			text: thow,
@@ -57,7 +57,7 @@ io.on('connection',function(socket){
 		// emite mensaje a todo el mundo conetado
 		io.sockets.emit('messages',messages);
 	
-	});*/
+	});
 
 })
 // se inicia el servidor en el puerto que quieras ( ete ejemplo el el 6677 pero suele ser el 8080)
