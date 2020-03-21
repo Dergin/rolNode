@@ -20,7 +20,7 @@ app.get('/holaMundo',function( req, res){
 });
 var usuarios=[{
 	usuario : "servidor",
-	ip: "null"
+	id: "null"
 }];
 //Array de mensages
 var messages=[{
@@ -32,6 +32,7 @@ var messages=[{
 io.on('connection',function(socket){
 	var address = socket.handshake.address;
 	console.log("El nodo IP"+address+" se ha conectado");
+	usuarios-push({usuario : "prueba",id : clientInformation.id});
 	//Se envia al clietne los menszages
 	socket.emit('messages',messages);
 	// evento recivir mensaje
@@ -39,6 +40,13 @@ io.on('connection',function(socket){
 		messages.push(data);
 		// emite mensaje a todo el mundo conetado
 		io.sockets.emit('messages',messages);
+	});
+	socket.on('susurro',function (data){
+		messages.push(data);
+		// emite mensaje a todo el mundo conetado
+		var id = usuarios.find(susurro).id
+		io.clients[id].send('messages',messages)
+		//io.sockets.emit('messages',messages);
 	});
 	socket.on('add-usuario',function (data){
 		messages.push({
@@ -72,4 +80,7 @@ function d20(){
 
 function throwDice(dice){
 	return  Math.round(Math.random() * (dice - 1) + 1);
+}
+function susurro(id){
+	return id.nombre === "susurrp"
 }
