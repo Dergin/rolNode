@@ -91,5 +91,5 @@ function throwDice(dice){
 	return  Math.round(Math.random() * (dice - 1) + 1);
 }
 function susurro(id){
-	return id.nombre === "susurro"
+	return id.usuario === "susurro"
 }
