@@ -44,15 +44,26 @@ function throwIniciative(){
 		text: $(".textNuevoMensaje").val(),
 		ip: "cliente"
 	};
-	socket.emit('throw-iniciative',message);
+	socket.emit('susurro',message);
 }
 
+function susurro(){
+	var message = {
+		nickname: $("#nombreUsuario").val(),
+		text: $(".textNuevoMensaje").val(),
+		ip: "cliente"
+	};
+	socket.emit('throw-iniciative',message);
+}
 //funciones de windows
 $("document").ready(function(){
 	$(".btnEnviar").click(function(){
 		addMessage();
 	})
 	$(".btnIniciativa").click(function(){
+		throwIniciative();
+	})
+	$(".susurro").click(function(){
 		throwIniciative();
 	})
 })

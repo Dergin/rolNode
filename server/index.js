@@ -82,5 +82,5 @@ function throwDice(dice){
 	return  Math.round(Math.random() * (dice - 1) + 1);
 }
 function susurro(id){
-	return id.nombre === "susurrp"
+	return id.nombre === "susurro"
 }
