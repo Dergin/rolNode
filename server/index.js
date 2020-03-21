@@ -48,9 +48,13 @@ io.on('connection',function(socket){
 		messages.push(data);
 		// emite mensaje a todo el mundo conetado
 		var usuario = (usuarios.find(susurro));
-		console.log(usuario);
-		var id = usuario-id;
-		io.clients[id].send('messages',messages);
+		if (usuario != undefined){
+			console.log(usuario);
+			var id = usuario-id;
+			io.clients[id].send('messages',messages);
+			//io.sockets(id).emit('messages',messages);
+		}
+
 		//io.sockets.emit('messages',messages);
 	});
 	socket.on('add-usuario',function (data){
