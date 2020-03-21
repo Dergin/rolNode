@@ -41,14 +41,13 @@ io.on('connection',function(socket){
 		// emite mensaje a todo el mundo conetado
 		if (data.nickname == "susurro"){
 			usuarios.push({usuario : data.nickname,id :socket.id});
-
 		}
 		io.sockets.emit('messages',messages);
 	});
 	socket.on('susurro',function (data){
 		messages.push(data);
 		// emite mensaje a todo el mundo conetado
-		var id = usuarios.find(susurro).id
+		var id = (usuarios.find(susurro)).id
 		io.clients[id].send('messages',messages)
 		//io.sockets.emit('messages',messages);
 	});
