@@ -51,7 +51,7 @@ io.on('connection',function(socket){
 		if (usuario != undefined){
 			console.log(usuario);
 			var id = usuario.id;
-			io.sockets[id].emit('messages',messages);
+			io.sockets[id].send('messages',messages);
 			//io.sockets(id).emit('messages',messages);
 		}
 
