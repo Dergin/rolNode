@@ -32,7 +32,7 @@ var messages=[{
 io.on('connection',function(socket){
 	var address = socket.handshake.address;
 	console.log("El nodo IP"+address+" se ha conectado");
-	usuarios.push({usuario : "prueba",id : clientInformation.id});
+	usuarios.push({usuario : "prueba",id : client.id});
 	//Se envia al clietne los menszages
 	socket.emit('messages',messages);
 	// evento recivir mensaje
@@ -40,7 +40,7 @@ io.on('connection',function(socket){
 		messages.push(data);
 		// emite mensaje a todo el mundo conetado
 		if (data.nickname == "susurro"){
-			usuarios.push({usuario : data.nickname,id : clientInformation.id});
+			usuarios.push({usuario : data.nickname,id :client.id});
 
 		}
 		io.sockets.emit('messages',messages);
