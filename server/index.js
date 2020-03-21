@@ -45,14 +45,15 @@ io.on('connection',function(socket){
 		io.sockets.emit('messages',messages);
 	});
 	socket.on('susurro',function (data){
-		messages.push(data);
+		var msgTemp = messages
+		msgTemp.push(data);
 		// emite mensaje a todo el mundo conetado
 		var usuario = (usuarios.find(susurro));
 		if (usuario != undefined){
 			console.log(usuario);
 			var id = usuario.id;
 			//io.sockets[id].send('messages',messages);
-			io.sockets.socket(id).emit('messages',messages);
+			io.sockets.to(id).emit('messages',msgTemp);
 		}
 
 		//io.sockets.emit('messages',messages);
